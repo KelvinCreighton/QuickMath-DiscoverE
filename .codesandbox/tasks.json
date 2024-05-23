@@ -1,0 +1,12 @@
+// This file is to autorun the terminal on the codesandbox app for the iPads
+{
+	"setupTask": [],
+
+	"tasks": {
+		"python QuickMath.py": {
+			"name": "python QuickMath.py",
+			"command": "python QuickMath.py",
+			"runAtStart": true
+		}
+	}
+}
