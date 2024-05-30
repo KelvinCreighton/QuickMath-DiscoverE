@@ -1,4 +1,6 @@
 # QuickMath - Project for DiscoverE
+https://github.com/discoverE-Instructor/QuickMath.py
+
 This QuickMath game asks the player to guess a target number using a combination of basic arithmetic operations:&emsp;+&emsp;*&emsp;(&emsp;)&emsp;applied to a set of randomly shuffled numbers given by the player.
 
 Heres a quick breakdown: 
